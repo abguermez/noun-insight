@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noun-insight/static/css/main.95bf53a2.css",
+    "main.js": "/noun-insight/static/js/main.d61029ae.js",
+    "static/js/787.02e2c8df.chunk.js": "/noun-insight/static/js/787.02e2c8df.chunk.js",
+    "index.html": "/noun-insight/index.html",
+    "main.95bf53a2.css.map": "/noun-insight/static/css/main.95bf53a2.css.map",
+    "main.d61029ae.js.map": "/noun-insight/static/js/main.d61029ae.js.map",
+    "787.02e2c8df.chunk.js.map": "/noun-insight/static/js/787.02e2c8df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95bf53a2.css",
+    "static/js/main.d61029ae.js"
+  ]
+}
